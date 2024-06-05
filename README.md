@@ -3,7 +3,7 @@ Project CTR is a collection of custom Nintendo 3DS tools.
 
 Forked by Sith-Magnus to add Linux ARM64 compatibilty.
 Tested on Ubuntu 22.04 Jammy Jellyfish (Termux Proot Environment) and confirmed working. 
-Why was this fork made? No reason really, saw a lot of people complaining online that there is no proper viable solution to decrypt ROMs on android. It can be effectively used along with [cia-unix by shijimasoft](https://github.com/shijimasoft/cia-unix) to decrypt 3DS ROMs over android!
+Why was this fork made? No reason really, saw a lot of people complaining online that there is no solution to decrypt ROMs on android. It can be effectively used along with [cia-unix by shijimasoft](https://github.com/shijimasoft/cia-unix) to decrypt 3DS ROMs over android!
  
 
 ## Use:
